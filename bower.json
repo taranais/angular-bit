@@ -1,16 +1,7 @@
 {
   "name": "angular-bit",
-  "authors": [
-    "taranais <taranais@gmail.com>",
-    "Le Anh Quan <quanla2003@gmail.com>",
-  ],
   "description": "AngularJS directives for Bitwise operations and controls",
   "main": "src/angular-bit.js",
-  "keywords": [
-    "angular",
-    "Bitwise",
-    "directive"
-  ],
   "license": "MIT",
   "homepage": "https://github.com/taranais/angular-bit"
 }
