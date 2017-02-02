@@ -1,23 +1,19 @@
 {
-  "name": "angular-flow-wizard",
+  "name": "angular-bit",
   "version": "1.0.0",
-  "homepage": "https://github.com/quanla/angular-flow-wizard",
+  "homepage": "https://github.com//taranais/angular-bit",
   "authors": [
-    "Le Anh Quan <quanla2003@gmail.com>"
+    "Le Anh Quan <quanla2003@gmail.com>",
+    "taranais <taranais@gmail.com>",
   ],
-  "description": "AngularJS directives for Wizards that have flow control",
-  "main": "src/wizard.js",
+  "description": "AngularJS directives for Bitwise operations and controls",
+  "main": "src/angular-bit.js",
   "moduleType": [
     "globals"
   ],
   "keywords": [
     "AngularJS",
-    "Wizard",
-    "flow",
-    "control",
-    "conditional",
-    "step",
-    "loop"
+    "Bitwise"
   ],
   "license": "MIT",
   "ignore": [
